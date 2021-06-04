@@ -1,2 +1,3 @@
-# Just Karel
-basically, it adds Karel and only Karel
+# just karel
+basically, it adds karel and only karel
+ 
